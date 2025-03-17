@@ -12,7 +12,7 @@ The library is compatible with the following [Bluetooth specifications](https://
 - Mesh Protocol 1.1 (backwards compatible with **Mesh Profile 1.0.1**)
 - Mesh Model 1.1
 - Mesh Configuration Database Profile 1.0.1
-
+<\marg ios (h6>
 and [**Mesh Device Properties**](https://www.bluetooth.com/specifications/device-properties/).
 
 > [!Note]
